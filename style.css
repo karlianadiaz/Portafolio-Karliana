@@ -128,13 +128,14 @@ p {
 }
 
 
+
 footer {
     background-color: black;
     text-align: center;
     padding: 55px 89px;
-    color: white;
+    color: white;}
    
-footer p {
+    footer p {
     margin: 0;
 }
 .esquerda article p {
